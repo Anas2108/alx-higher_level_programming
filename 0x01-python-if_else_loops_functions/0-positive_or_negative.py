@@ -3,8 +3,8 @@ import random
 number = random.randint(-10, 10)
 
 if number > 0:
-    print(f"{number} is postive")
+    print(f"{number} is postive\n")
 elif number == 0:
-    print(f"{number} is zero")
+    print(f"{number} is zero\n")
 else:
-    print(f"{number} is negtaive")
+    print(f"{number} is negtaive\n")
