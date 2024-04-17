@@ -2,11 +2,11 @@
 **0x0B. Python - Input/Output**
 
 ## Author's Details
-Name: *Wendy Munyasi.*
+Name: *Anas Hamed.*
 
-Email: *wendymunyasi@gmail.com*
 
-Tel: *+254707240068.*
+
+
 
 ##  Requirements
 
